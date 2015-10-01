@@ -7,7 +7,6 @@ Major Revisions:
     -Integraded Login API, Login Service
  
   dtsvc.dll
-  
     -Login API Services
     -Wait State Notifier
   
