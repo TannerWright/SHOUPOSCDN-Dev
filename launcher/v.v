@@ -1,2 +1,2 @@
-{0.0.0.1} CONTINUE;
+{0.0.0.2} CONTINUE;
 NORMAL[bin\launcher.exe]0.0.0.0;
