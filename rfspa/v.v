@@ -1,6 +1,6 @@
 {0.0.0.1} CONTINUE;
-NORMAL[0,bin/rfspa.exe,rfspa.exe]0.0.0.0;
-NORMAL[1,bin/rfspa.exe.config,rfspa.exe.config]0.0.0.0;
+NORMAL[0,bin/rfspa.exe,app.exe]0.0.0.0;
+NORMAL[1,bin/rfspa.exe.config,app.exe.config]0.0.0.0;
 NORMAL[2,lib/dtsvc.dll,lib/dtsvc.dll]0.0.0.0;
 NORMAL[3,lib/Newtonsoft.Json.dll,lib/Newtonsoft.Json.dll]0.0.0.0;
 NORMAL[4,lib/Newtonsoft.Json.xml,lib/Newtonsoft.Json.xml]0.0.0.0;
