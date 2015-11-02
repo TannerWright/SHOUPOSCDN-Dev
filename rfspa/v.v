@@ -1,4 +1,4 @@
-{0.7.6.243} CONTINUE;
+{0.6.7.243} CONTINUE;
 NORMAL[0,bin/rfspa.exe,app.exe]0.6.7.219;
 NORMAL[1,bin/rfspa.exe.config,app.exe.config]0.6.0.156;
 NORMAL[2,lib/dtsvc.dll,lib/dtsvc.dll]0.3.1.219;
