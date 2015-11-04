@@ -1,7 +1,7 @@
-{0.6.7.243} CONTINUE;
-NORMAL[0,bin/rfspa.exe,app.exe]0.6.7.219;
+{0.7.0.1015} CONTINUE;
+NORMAL[0,bin/rfspa.exe,app.exe]0.7.0.1015;
 NORMAL[1,bin/rfspa.exe.config,app.exe.config]0.6.0.156;
-NORMAL[2,lib/dtsvc.dll,lib/dtsvc.dll]0.3.1.219;
+NORMAL[2,lib/dtsvc.dll,lib/dtsvc.dll]0.3.2.219;
 NORMAL[3,lib/Newtonsoft.Json.dll,lib/Newtonsoft.Json.dll]7.0.1.18622;
 NORMAL[4,lib/Newtonsoft.Json.xml,lib/Newtonsoft.Json.xml]7.0.1.18622;
 NORMAL[5,lib/objlib.dll,lib/objlib.dll]0.3.1.219;
@@ -12,6 +12,6 @@ NORMAL[10,lib/Microsoft.PointOfService.dll,lib/Microsoft.PointOfService.dll]1.14
 NORMAL[11,lib/Microsoft.PointOfService.xml,lib/Microsoft.PointOfService.xml]1.14.2.0;
 NORMAL[12,lib/Test_Configurations.dll,lib/Test_Configurations.dll]0.2.3.1008;
 NORMAL[13,lib/Test_Configurations.pdb,lib/Test_Configurations.pdb]0.2.3.1008;
-NORMAL[14,lib/dtsvc.pdb,lib/dtsvc.pdb]0.3.1.219;
-NORMAL[15,bin/rfspa.pdb,app.pdb]0.6.7.219;
+NORMAL[14,lib/dtsvc.pdb,lib/dtsvc.pdb]0.3.2.219;
+NORMAL[15,bin/rfspa.pdb,app.pdb]0.7.0.1015;
 NORMAL[16,lib/objlib.pdb,lib/objlib.pdb]0.3.1.219;
