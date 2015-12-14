@@ -1,12 +1,12 @@
-{0.9.8.204} CONTINUE;
-NORMAL[0,bin/rfspa.exe,app.exe]0.9.8.111;
+{0.9.9.204} CONTINUE;
+NORMAL[0,bin/rfspa.exe,app.exe]0.9.9.111;
 NORMAL[1,bin/rfspa.exe.config,app.exe.config]0.9.7.111;
 NORMAL[2,lib/dtsvc.dll,lib/dtsvc.dll]0.4.2.219;
 NORMAL[3,lib/Newtonsoft.Json.dll,lib/Newtonsoft.Json.dll]7.0.1.18622;
 NORMAL[4,lib/Newtonsoft.Json.xml,lib/Newtonsoft.Json.xml]7.0.1.18622;
 NORMAL[5,lib/objlib.dll,lib/objlib.dll]0.4.2.219;
 DELETE[6,lib/sndlib.dll,lib/sndlib.dll];
-NORMAL[7,lib/System.Net.Http.Formatting.dll,lib/System.Net.Http.Formatting.dll]4.0.20710.0;
+NORMAL[7,lib/System.Net.Http.Formatting.dll,lib/System.Net.Http.Formatting.dll]4.1.20710.0;
 NORMAL[8,lib/System.Net.Http.Formatting.xml,lib/System.Net.Http.Formatting.xml]0.0.0.0;
 NORMAL[10,lib/Microsoft.PointOfService.dll,lib/Microsoft.PointOfService.dll]1.14.2.0;
 NORMAL[11,lib/Microsoft.PointOfService.xml,lib/Microsoft.PointOfService.xml]1.14.2.0;
